@@ -1,0 +1,14 @@
+{
+  "name": "local-server",
+  "version": "1.0.0",
+  "description": "NodelJs Local Server Using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "King Kimos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
